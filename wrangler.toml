@@ -1,0 +1,9 @@
+
+# 项目名称
+name = "address-yesheng-de"
+
+# 兼容性日期
+compatibility_date = "2025-06-25"
+
+[assets]
+directory = "./dist"
